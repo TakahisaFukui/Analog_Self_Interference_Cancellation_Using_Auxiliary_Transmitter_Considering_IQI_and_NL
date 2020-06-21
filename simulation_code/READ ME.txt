@@ -1,0 +1,6 @@
+You can compile and execute the code by follows:
+
+$ g++ main.cpp -std=c++0x -lopenblas
+$ ./a.out
+
+Note: This program needs installation of the openblas to your environment.
