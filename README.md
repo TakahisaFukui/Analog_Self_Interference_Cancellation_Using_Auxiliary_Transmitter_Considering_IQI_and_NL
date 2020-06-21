@@ -3,6 +3,6 @@ This is a supplemental data of a paper in IEEE Transactions on Wireless Communic
 
 Paper Title: Analog Self-Inteference Cancellation Using Auxiliary Transmitter Considering IQ Imbalance and Amplifier Nonlinearity
 
-We upload two informations bellow.
+We uploaded two informations bellow.
 1. Derivation of (14) in our paper.
 2. Simulation code of our proposed approach by using C++.
